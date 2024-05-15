@@ -1,0 +1,6 @@
+ollama 
+#langchain 
+bs4 
+langchain-chroma
+langchain-community
+gradio
